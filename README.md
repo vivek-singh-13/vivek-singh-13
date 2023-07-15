@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-singh-13&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-singh-13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-singh-13" alt="vivek-singh-13" /></a> </p>
-
 - 📫 How to reach me **vs6324113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
